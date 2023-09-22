@@ -3,7 +3,7 @@ from TikTokApi import TikTokApi
 import asyncio
 import os
 
-crawler = Crawler()
+#crawler = Crawler()
 
 # crawler.getUserPosts("wheel.world")
 
